@@ -1,2 +1,2 @@
 # PracticeRepo
-This is a new feature (apple)
+This is a new feature (red apple)
